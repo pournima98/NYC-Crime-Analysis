@@ -1,7 +1,7 @@
 {
   "name": "crimecalapp",
   "version": "0.1.0",
-  "homepage": "https://pragatisukhija.github.io/CrimeDataAnalysis",
+  "homepage": "https://pournima98.github.io/NYC-Crime-Analysis/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
