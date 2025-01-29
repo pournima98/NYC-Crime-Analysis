@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/NYC-Crime-Analysis/static/css/main.8b8ccbec.css",
+    "main.js": "/NYC-Crime-Analysis/static/js/main.29979a34.js",
+    "static/js/787.50cd0e01.chunk.js": "/NYC-Crime-Analysis/static/js/787.50cd0e01.chunk.js",
+    "static/media/heatmap_tile.PNG": "/NYC-Crime-Analysis/static/media/heatmap_tile.9dc26bf70f887bbfb80b.PNG",
+    "static/media/hotspot_tile.PNG": "/NYC-Crime-Analysis/static/media/hotspot_tile.ba86c32a758826810046.PNG",
+    "static/media/Hourly_Crime_Reports_Tile.jpg": "/NYC-Crime-Analysis/static/media/Hourly_Crime_Reports_Tile.a58a21202fea08936d5d.jpg",
+    "static/media/distribution_tile.jpg": "/NYC-Crime-Analysis/static/media/distribution_tile.0d4002a5f2c397789ca3.jpg",
+    "static/media/Victims_Age_Group_Tile.jpg": "/NYC-Crime-Analysis/static/media/Victims_Age_Group_Tile.e063adc5c6496ec908b9.jpg",
+    "static/media/Crime_By_Month_Tile.jpg": "/NYC-Crime-Analysis/static/media/Crime_By_Month_Tile.bc21994e6e52abbbed8d.jpg",
+    "static/media/Victims_By_Gender_Tile.jpg": "/NYC-Crime-Analysis/static/media/Victims_By_Gender_Tile.118a817c268669ba5235.jpg",
+    "static/media/borough_tile.jpg": "/NYC-Crime-Analysis/static/media/borough_tile.0bf9021807936639660b.jpg",
+    "static/media/Crime_By_Year_Tile.jpg": "/NYC-Crime-Analysis/static/media/Crime_By_Year_Tile.82cfcbcaa41e73d98ade.jpg",
+    "static/media/top_crimes_tile.PNG": "/NYC-Crime-Analysis/static/media/top_crimes_tile.993383a7367a2f2bf811.PNG",
+    "static/media/CrimeByMonth.jpeg": "/NYC-Crime-Analysis/static/media/CrimeByMonth.53148b6350ef1e6780b8.jpeg",
+    "static/media/top_crimes.jpg": "/NYC-Crime-Analysis/static/media/top_crimes.81cc209accfd792b751b.jpg",
+    "static/media/HourlyCrimeReports1.png": "/NYC-Crime-Analysis/static/media/HourlyCrimeReports1.48df39a33455541b116d.png",
+    "static/media/CrimesDistributionBySex.png": "/NYC-Crime-Analysis/static/media/CrimesDistributionBySex.584ecc42737fcb6b97e0.png",
+    "static/media/TotalCrimeEventsByYear.PNG": "/NYC-Crime-Analysis/static/media/TotalCrimeEventsByYear.5354897aa48cf28cca99.PNG",
+    "static/media/Crime_By_Borough1.png": "/NYC-Crime-Analysis/static/media/Crime_By_Borough1.8a857d823958353dc378.png",
+    "static/media/CrimesCountBySex.png": "/NYC-Crime-Analysis/static/media/CrimesCountBySex.677b0213bcc853b29d9e.png",
+    "static/media/SexCrimeVictimsbyAgeGroup.PNG": "/NYC-Crime-Analysis/static/media/SexCrimeVictimsbyAgeGroup.663f77245d51ae3e32ff.PNG",
+    "index.html": "/NYC-Crime-Analysis/index.html",
+    "main.8b8ccbec.css.map": "/NYC-Crime-Analysis/static/css/main.8b8ccbec.css.map",
+    "main.29979a34.js.map": "/NYC-Crime-Analysis/static/js/main.29979a34.js.map",
+    "787.50cd0e01.chunk.js.map": "/NYC-Crime-Analysis/static/js/787.50cd0e01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8ccbec.css",
+    "static/js/main.29979a34.js"
+  ]
+}
